@@ -11,7 +11,10 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/baker7caleb/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/baker7caleb/azure-network-protocols)
 
-<h2>🤳Connect with me on LinkedIn:</h2>
+- <b>IP Addressing Security - (VPN & DNS)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/baker7caleb/osticket-prereqs)
+
+  - <h2>🤳Connect with me on LinkedIn:</h2>
 
 [<img align="left" alt="Caleb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
