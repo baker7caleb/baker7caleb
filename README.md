@@ -13,8 +13,8 @@
 
 - <b>IP Addressing Security - (VPN & DNS)</b>
   - [Virtual Private Networks](https://github.com/baker7caleb/virtual-private-networks)
-
-  - <h2>🤳Connect with me on LinkedIn:</h2>
+  - [Domain Name System](https://github.com/baker7caleb/understanding-domain-name-system)
+  -   - <h2>🤳Connect with me on LinkedIn:</h2>
 
 [<img align="left" alt="Caleb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
