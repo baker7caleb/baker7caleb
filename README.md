@@ -12,7 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/baker7caleb/azure-network-protocols)
 
 - <b>IP Addressing Security - (VPN & DNS)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/baker7caleb/osticket-prereqs)
+  - [Virtual Private Networks](https://github.com/baker7caleb/virtual-private-networks)
 
   - <h2>🤳Connect with me on LinkedIn:</h2>
 
