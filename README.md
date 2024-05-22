@@ -11,7 +11,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/baker7caleb/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/baker7caleb/azure-network-protocols)
 
-- <b>IP Addressing Security - (VPN & DNS)</b>
+- <b>IP Addressing - (VPN & DNS)</b>
   - [Virtual Private Networks](https://github.com/baker7caleb/virtual-private-networks)
   - [Domain Name System](https://github.com/baker7caleb/understanding-domain-name-system)
 - -    <h2> Connect with me on LinkedIn:</h2>
