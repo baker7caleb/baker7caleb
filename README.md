@@ -2,10 +2,7 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/baker7caleb/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/baker7caleb/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/baker7caleb/ticket-lifecycle)
+
 - <b>Microsoft Azure</b>
   - [Create an Azure Account and Deploy a Virtual Machine](https://github.com/baker7caleb/create-azure-account)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/baker7caleb/configure-ad)
